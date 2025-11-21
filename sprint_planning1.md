@@ -38,7 +38,7 @@ Elles constituent donc un ensemble cohérent et indispensable pour commencer.
 ## 4. Découpage des tâches du Sprint 1
 
 ### 🔹 Pour US1 — Créer un compte
-- Définir les champs nécessaires (nom, email, mot de passe),
+- Définir les champs nécessaires (nom, email, mot de passe.etc),
 - Créer une maquette de la page d’inscription,
 - Décrire les règles de validation (mot de passe, email, etc.).
 
