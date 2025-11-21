@@ -8,17 +8,17 @@ Ces fonctionnalités permettent d’obtenir un premier prototype fonctionnel (MV
 
 3. User Stories sélectionnées pour le Sprint 1
    
-US01 – Créer un compte étudiant
-En tant qu’étudiant, je veux créer un compte afin d’accéder au système et utiliser ses services.
+   US01 – Créer un compte étudiant
+   En tant qu’étudiant, je veux créer un compte afin d’accéder au système et utiliser ses services.
 
-US02 – Se connecter
-En tant qu’étudiant, je veux me connecter afin à mon espace personnel.
+   US02 – Se connecter
+   En tant qu’étudiant, je veux me connecter afin à mon espace personnel.
 
-US03 – Ajouter un livre à louer
-En tant qu’étudiant propriétaire, je veux ajouter un livre avec ses informations (titre, description, prix de location, état) afin que les autres étudiants puissent le louer.
+  US03 – Ajouter un livre à louer
+  En tant qu’étudiant propriétaire, je veux ajouter un livre avec ses informations (titre, description, prix de location,       état) afin que les autres étudiants puissent le louer.
 
-US04 – Rechercher un livre disponible
-En tant qu’étudiant locataire, je veux rechercher un livre disponible afin de trouver rapidement le livre que je souhaite louer.
+  US04 – Rechercher un livre disponible
+  En tant qu’étudiant locataire, je veux rechercher un livre disponible afin de trouver rapidement le livre que je souhaite     louer.
 
 5. Justification du choix
 Ces User Stories ont été sélectionnées car elles représentent les fonctionnalités fondamentales du système et constituent le noyau du produit.
@@ -40,6 +40,7 @@ Ces fonctionnalités sont prioritaires dans la première phase du projet.
    
 Ce document présente uniquement la planification du Sprint 1.
 Aucun développement n’est réalisé à ce stade, conformément aux instructions du TD.
+
 
 
 
