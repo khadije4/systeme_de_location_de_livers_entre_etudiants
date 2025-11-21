@@ -13,7 +13,7 @@ User Story-Système de location de livres entre étudiants
 
 6.En tant qu’étudiant propriétaire, je veux accepter ou refuser une demande de location afin de gérer mes livres et savoir qui peut les emprunter
 
-7. En tant qu’étudiant locataire, je veux voir l’état de ma demande afin de savoir si ma demande a été acceptée, refusée ou est en attente.
+7.En tant qu’étudiant locataire, je veux voir l’état de ma demande afin de savoir si ma demande a été acceptée, refusée ou est en attente.
    
 8.En tant qu’étudiant propriétaire, je veux voir l’historique de mes locations afin de suivre l’utilisation de mes livres et gérer les retours.
 
