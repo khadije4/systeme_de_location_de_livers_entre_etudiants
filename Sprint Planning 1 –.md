@@ -24,21 +24,22 @@ Sprint Planning 1 – Système de location de livres entre étudiants
    Ces User Stories ont été sélectionnées car elles représentent les fonctionnalités fondamentales du système et constituent     le noyau du produit.
    Elles permettent de créer un premier prototype fonctionnel (MVP) qui couvre :
 
-      • L’accès au système via la création de compte,
+           • L’accès au système via la création de compte,
    
-      • La connexion au système via un compte créé
+           • La connexion au système via un compte créé
    
-      • L’ajout de livres par les étudiants propriétaires
+           • L’ajout de livres par les étudiants propriétaires
    
-      • La recherche de livres disponibles par les étudiants locataires.
+           • La recherche de livres disponibles par les étudiants locataires.
    
-  Ces fonctionnalités sont prioritaires dans la première phase du projet.
+    Ces fonctionnalités sont prioritaires dans la première phase du projet.
 
 
 7. Remarque
    
    Ce document présente uniquement la planification du Sprint 1.
    Aucun développement n’est réalisé à ce stade, conformément aux instructions du TD.
+
 
 
 
