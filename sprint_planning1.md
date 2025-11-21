@@ -52,13 +52,4 @@ Elles constituent donc un ensemble cohérent et indispensable pour commencer.
 - Concevoir la maquette de la page de recherche,
 - Décrire l’affichage des résultats.
 
----
 
-## 5. Critères de réussite
-Le Sprint 1 sera considéré comme réussi si :
-- Les 3 User Stories sont correctement rédigées,
-- Les maquettes des pages sont créées et validées,
-- Les tâches sont visibles dans le Kanban (Notion),
-- Le Product Owner valide la cohérence du Sprint.
-
----
