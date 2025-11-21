@@ -31,8 +31,10 @@ Ces fonctionnalités sont prioritaires dans la première phase du projet.
 
 
 7. Remarque
+   
 Ce document présente uniquement la planification du Sprint 1.
 Aucun développement n’est réalisé à ce stade, conformément aux instructions du TD.
+
 
 
 
