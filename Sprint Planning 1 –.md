@@ -2,9 +2,9 @@ Sprint Planning 1 – Système de location de livres entre étudiants
 
 1. Sprint Goal
    
-L’objectif de ce sprint est de mettre en place les fonctionnalités essentielles du système : création d’un compte étudiant, la connexion au système, ajout de livres à louer et recherche de livres disponibles.
+    L’objectif de ce sprint est de mettre en place les fonctionnalités essentielles du système : création d’un compte             étudiant, la connexion au système, ajout de livres à louer et recherche de livres disponibles.
 
-Ces fonctionnalités permettent d’obtenir un premier prototype fonctionnel (MVP).
+    Ces fonctionnalités permettent d’obtenir un premier prototype fonctionnel (MVP).
 
 3. User Stories sélectionnées pour le Sprint 1
    
@@ -37,8 +37,9 @@ Ces fonctionnalités permettent d’obtenir un premier prototype fonctionnel (MV
 
 7. Remarque
    
-  Ce document présente uniquement la planification du Sprint 1.
-  Aucun développement n’est réalisé à ce stade, conformément aux instructions du TD.
+   Ce document présente uniquement la planification du Sprint 1.
+   Aucun développement n’est réalisé à ce stade, conformément aux instructions du TD.
+
 
 
 
