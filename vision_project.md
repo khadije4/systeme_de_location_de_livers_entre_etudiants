@@ -1,42 +1,14 @@
-# Vision du Produit  
-## Système de Location de Livres entre Étudiants
+# Vision du produit - Système de location de livres entre étudiants
 
-## 1. Contexte
-Dans le cadre universitaire, les étudiants ont régulièrement besoin de livres scolaires, de manuels ou d’ouvrages spécialisés. Cependant, ces ressources peuvent être coûteuses, difficiles à trouver ou disponibles en nombre limité.  
-Parallèlement, beaucoup d’étudiants disposent de livres qu’ils n’utilisent plus.
+Le projet vise à créer une plateforme de location de livres entre étudiants afin de faciliter l'accès aux ressources académiques à faible coût.
 
-## 2. Problème à Résoudre
-Il n’existe pas de plateforme simple et centralisée permettant :
-- d’échanger ou louer des livres entre étudiants,
-- de trouver rapidement un ouvrage disponible,
-- de réduire le coût d’acquisition des ressources,
-- de faciliter le partage au sein de la communauté étudiante.
+La cible principale est les étudiants universitaires souhaitant réduire leurs dépenses tout en accédant rapidement aux ouvrages nécessaires.
 
-## 3. Solution Proposée
-Le projet propose un système numérique permettant aux étudiants de :
-- mettre en location leurs livres,
-- rechercher des ouvrages disponibles,
-- envoyer ou accepter des demandes de location,
-- gérer les échanges de manière simple, rapide et sécurisée.
+Le système permettra aux étudiants propriétaires d'ajouter leurs livres avec un prix de location symbolique, et aux étudiants locataires de les louer pour une durée choisie, tout en assurant un suivi fiable des transactions, des retours et des retards éventuels.
 
-Cette plateforme sert d’intermédiaire efficace entre les étudiants propriétaires et les étudiants locataires.
+La valeur ajoutée réside dans :
 
-## 4. Valeur Ajoutée
-- **Économique** : réduire les coûts d’achat grâce à la location.
-- **Écologique** : encourager la réutilisation des livres.
-- **Sociale** : améliorer l’entraide et la collaboration entre étudiants.
-- **Pratique** : centraliser toutes les offres et demandes dans un seul outil.
-
-## 5. Objectifs Principaux
-- Simplifier l’accès aux livres nécessaires pour les cours.
-- Favoriser le partage de ressources entre étudiants.
-- Offrir une plateforme intuitive, sécurisée et rapide.
-- Permettre une gestion facile des demandes et de la disponibilité des livres.
-
-## 6. Public Cible
-- Tous les étudiants de l’université,
-- Étudiants propriétaires de livres,
-- Étudiants à la recherche d’ouvrages.
-
-
-
+- Le partage des livres
+- La gestion simple des locations et des retours
+- La transparence des prix
+- La disponibilité instantanée des ouvrages
