@@ -14,9 +14,11 @@ User Story-Système de location de livres entre étudiants
 6.En tant qu’étudiant propriétaire, je veux accepter ou refuser une demande de location afin de gérer mes livres et savoir qui peut les emprunter
 
 7.En tant qu’étudiant locataire, je veux voir l’état de ma demande afin de savoir si ma demande a été acceptée, refusée ou est en attente.
+
+8. En tant qu'étudiant locataire, je veux payer le montant de la location via Bankily afin de confirmer ma demande.
    
-8.En tant qu’étudiant propriétaire, je veux voir l’historique de mes locations afin de suivre l’utilisation de mes livres et gérer les retours.
+9.En tant qu’étudiant propriétaire, je veux voir l’historique de mes locations afin de suivre l’utilisation de mes livres et gérer les retours.
 
-9.En tant qu’étudiant locataire, je veux retourner le livre à la date prévue afin de respecter les délais et éviter les pénalités.
+10.En tant qu’étudiant locataire, je veux retourner le livre à la date prévue afin de respecter les délais et éviter les pénalités.
 
-10.En tant qu’étudiant propriétaire, je veux être notifié en cas de retard de retour afin de suivre mes livres et rappeler aux locataires de les rendre.
+11.En tant qu’étudiant propriétaire, je veux être notifié en cas de retard de retour afin de suivre mes livres et rappeler aux locataires de les rendre.
