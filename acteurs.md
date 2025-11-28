@@ -1,6 +1,6 @@
 # Acteurs du Système-Système de Location de Livres entre Étudiants
 
-# Étudiant (Acteur Général)
+# 1.Étudiant (Acteur Général)
 L’étudiant est l’utilisateur principal du système.
 Il représente tout étudiant inscrit dans la plateforme, qu’il soit propriétaire ou locataire par la sui te.
 
